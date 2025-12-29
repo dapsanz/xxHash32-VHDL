@@ -1,0 +1,8 @@
+reg.vhd
+counter.vhd
+mult32.vhd
+data_buffer.vhd
+controller.vhd
+datapath.vhd
+interface.vhd
+
